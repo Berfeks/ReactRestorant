@@ -1,4 +1,3 @@
-import Subheader from 'material-ui/Subheader/Subheader';
 import React from 'react';
 import { SubHeading } from '../../components';
 import { images } from '../../constants';
