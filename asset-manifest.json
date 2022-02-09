@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/ReactRestorant/static/css/main.6c855967.css",
+    "main.js": "/ReactRestorant/static/js/main.2a777141.js",
+    "static/media/meal.mp4": "/ReactRestorant/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/bg.png": "/ReactRestorant/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/welcome.png": "/ReactRestorant/static/media/welcome.d724eb984456d9c97470.png",
+    "static/media/findus.png": "/ReactRestorant/static/media/findus.585c393ccd3671513743.png",
+    "static/media/laurels.png": "/ReactRestorant/static/media/laurels.e760828692795d4aafd7.png",
+    "static/media/chef.png": "/ReactRestorant/static/media/chef.02d6c5b61bfdc70303b4.png",
+    "static/media/menu.png": "/ReactRestorant/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/gallery04.png": "/ReactRestorant/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "/ReactRestorant/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/gallery02.png": "/ReactRestorant/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/gallery01.png": "/ReactRestorant/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/knife.png": "/ReactRestorant/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/ReactRestorant/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/G.png": "/ReactRestorant/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/logo.png": "/ReactRestorant/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/ReactRestorant/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/ReactRestorant/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/ReactRestorant/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/ReactRestorant/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/ReactRestorant/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "index.html": "/ReactRestorant/index.html",
+    "static/media/spoon.svg": "/ReactRestorant/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.6c855967.css.map": "/ReactRestorant/static/css/main.6c855967.css.map",
+    "main.2a777141.js.map": "/ReactRestorant/static/js/main.2a777141.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c855967.css",
+    "static/js/main.2a777141.js"
+  ]
+}
